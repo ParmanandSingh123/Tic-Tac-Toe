@@ -5,7 +5,7 @@ console.log(h1);
 
  const rbtn = document.getElementById("rbtn");
 let currentPlayer="x"
-
+//winning position
 let winingCondition = [
     [0,1,2],
     [3,4,5],
